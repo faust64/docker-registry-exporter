@@ -1,5 +1,7 @@
 # docker-registry-exporter
 
+bloop
+
 Prometheus exporter for the opensource [Docker registry](https://github.com/docker/distribution)'s file storage system.
 
 It is intended to run as a sidecar in Kubernetes mounting the same persistent volume as the Docker registry.
